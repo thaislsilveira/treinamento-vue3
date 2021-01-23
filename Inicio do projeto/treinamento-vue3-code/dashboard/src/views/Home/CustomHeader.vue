@@ -60,7 +60,7 @@ export default {
 }
 
 .header-group {
-  @apply flex flex-col w-4/5 max-w-6xl;
+  @apply flex flex-col w-5/5 max-w-6xl;
 }
 
 @media (min-width: 640px) {
