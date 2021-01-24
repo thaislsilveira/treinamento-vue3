@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "JWT_SECRET=sssshhhh node index.js",
-    "build": "docker build -t vuejs-treinamento-backend .",
-    "container": "docker run -d -p 3000:3000 vuejs-treinamento-backend",
+    "build": "sudo docker build -t vuejs-treinamento-backend .",
+    "container": "sudo docker run -d -p 3000:3000 vuejs-treinamento-backend",
     "dev": "DEBUG=* JWT_SECRET=sssshhhh nodemon index.js"
   },
   "keywords": [],
