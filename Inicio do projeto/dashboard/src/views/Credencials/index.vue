@@ -28,6 +28,7 @@
       <span v-else>{{ store.User.currentUser.apiKey }}</span>
         <div class="flex ml-20 mr-5" v-if="!state.hasError">
           <icon
+            @click="handleCopy"
             name="copy"
             :color="brandColors.graydark"
             size="24"
