@@ -1,6 +1,7 @@
 <h1 align='center'>Curso completo e gratuito de Vue.js 3 do iniciante ao avançado.</h1>
 
 **Link:** <a href="https://treinamento.vuejsbrasil.org/" target="_blank">Treinamento de Vue.js 3</a>
+**Código:** <a href="https://github.com/vuejs-br/treinamento-vue3-code" target="_blank">Código no Curso </a>
 
 ## Modulo 01: Introdução 🚀
 
