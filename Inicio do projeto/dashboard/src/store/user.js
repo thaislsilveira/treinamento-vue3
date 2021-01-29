@@ -1,10 +1,16 @@
 import { reactive } from 'vue'
 
-const state = reactive({
+const userInicialState = {
   currentUser: {}
-})
+}
+
+let state = reactive(userInicialState)
 
 export default state
+
+export function resetUserStore () {
+  state = reactive(userInicialState)
+}
 
 export function cleanCurrentUser () {
   state.currentUser = {}
