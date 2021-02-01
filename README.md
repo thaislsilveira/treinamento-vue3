@@ -3,9 +3,9 @@
 **Link:** <a href="https://treinamento.vuejsbrasil.org/" target="_blank">Treinamento de Vue.js 3</a><br/>
 **Código:** <a href="https://github.com/vuejs-br/treinamento-vue3-code" target="_blank">Código no Curso </a>
 
-## Modulo 01: Introdução 🚀
+## Modulo 01: Introdução ⭐
 
-## Modulo 02: Conceitos do Vue 🚀
+## Modulo 02: Conceitos do Vue :blue_book:
 <ul>
     <li><a href="https://github.com/thaislsilveira/treinamento-vue3/tree/main/Conceitos%20do%20Vue/Single-File%20Components" target="_blank">Single-File Components</a></li>
     <li><a href="https://github.com/thaislsilveira/treinamento-vue3/tree/main/Conceitos%20do%20Vue/Data-biding" target="_blank">Data-binding</a></li> 
@@ -14,3 +14,10 @@
     <li><a href="https://github.com/thaislsilveira/treinamento-vue3/tree/main/Conceitos%20do%20Vue/Novas%20syntaxs%20e%20antigas/nova-syntax-e-antiga" target="_blank">Novas syntaxs e antiga</a></li>  
     <li><a href="https://github.com/thaislsilveira/treinamento-vue3/tree/main/Conceitos%20do%20Vue/Life-cycle%20hooks" target="_blank">Life-cycle hooks</a></li>  
 </ul>
+
+## Modulo 03: Início do projeto 🚀
+
+## Modulo 04: Criando o dashboard :computer:
+<ul>
+    <a href="https://github.com/thaislsilveira/treinamento-vue3/tree/main/dashboard" target="_blank">Dashboard</a></li>
+<ul>
