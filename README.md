@@ -19,5 +19,5 @@
 
 ## Modulo 04: Criando o dashboard :computer:
 <ul>
-    <a href="https://github.com/thaislsilveira/treinamento-vue3/tree/main/dashboard" target="_blank">Dashboard</a></li>
+    <li><a href="https://github.com/thaislsilveira/treinamento-vue3/tree/main/dashboard" target="_blank">Dashboard</a></li>
 <ul>
