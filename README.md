@@ -21,3 +21,26 @@
 <ul>
     <li><a href="https://github.com/thaislsilveira/treinamento-vue3/tree/main/dashboard" target="_blank">Dashboard</a></li>
 <ul>
+
+## Modulo 05: Testes pro dashboard:computer: ✍️
+<ul>
+    <li><a href="https://github.com/thaislsilveira/treinamento-vue3/tree/main/.github/workflows" target="_blank">Workflows</a></li>
+    <li>
+        <a href="https://github.com/thaislsilveira/treinamento-vue3/blob/main/dashboard/src/views/Home/Home.spec.js" target="_blank">Teste de unidade na Home</a>
+    </li>
+    <li>
+        <a href="https://github.com/thaislsilveira/treinamento-vue3/blob/main/dashboard/src/utils/validators.spec.js" target="_blank">
+            Teste de unidade em Validators
+        </a>
+    </li>
+     <li>
+        <a href="https://github.com/thaislsilveira/treinamento-vue3/blob/main/dashboard/src/store/user.spec.js" target="_blank">
+            Teste de unidade em User
+         </a>
+    </li>
+     <li>
+        <a href="https://github.com/thaislsilveira/treinamento-vue3/blob/main/dashboard/src/services/auth.spec.js" target="_blank">
+            Teste de unidade em Auth
+         </a>
+    </li>
+<ul>
