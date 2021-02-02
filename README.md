@@ -20,7 +20,7 @@
 ## Modulo 04: Criando o dashboard :computer:
 <ul>
     <li><a href="https://github.com/thaislsilveira/treinamento-vue3/tree/main/dashboard" target="_blank">Dashboard</a></li>
-<ul>
+</ul>
 
 ## Modulo 05: Testes pro dashboard:computer: ✍️
 <ul>
@@ -43,4 +43,4 @@
             Teste de unidade em Auth
          </a>
     </li>
-<ul>
+</ul>
