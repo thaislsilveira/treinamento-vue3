@@ -43,4 +43,9 @@
             Teste de unidade em Auth
          </a>
     </li>
+     <li>
+        <a href="https://github.com/thaislsilveira/treinamento-vue3/tree/main/dashboard/tests/e2e/specs" target="_blank">
+             Fazendo testes end2end com cypress
+         </a>
+    </li>
 </ul>
