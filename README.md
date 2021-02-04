@@ -49,3 +49,5 @@
          </a>
     </li>
 </ul>
+
+## Modulo 06: Deploy e Github actions: :octocat:
