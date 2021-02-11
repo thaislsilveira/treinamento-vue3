@@ -8,7 +8,7 @@
      class="relative w-full flex">
       <button
         v-if="canShowAdditionalControlAndInfo"
-        @click="() => ({})"
+        @click="back"
         :disabled="canGoBack"
         :class="{ invisible: canGoBack }"
         class="text-xl text-gray-800 focus:outline-none"
@@ -30,6 +30,8 @@
       </button>
     </div>
 
+     <wizard />
+
     <div class="text-gray-800 text-sm flex" v-if="canShowAdditionalControlAndInfo">
       <icon name="chat" class="mr-1" :color="brandColors.graydark" />
       widget by
@@ -42,11 +44,14 @@
 import { defineComponent, computed, ComputedRef, SetupContext } from 'vue'
 import { brand } from '../../../palette'
 import Icon from '../../components/Icon/index.vue'
+import Wizard from '../../components/Wizard/index.vue'
 import colors from 'tailwindcss/colors'
 import useStore from '../../hooks/store'
+import useNavigation, { Navigation } from '../../hooks/navigation'
 
 interface SetupReturn {
   emit: SetupContext['emit'];
+  back: Navigation['back'];
   canGoBack: ComputedRef<boolean>;
   label: ComputedRef<string>;
   canShowAdditionalControlAndInfo: ComputedRef<boolean>;
@@ -56,9 +61,10 @@ interface SetupReturn {
 
 export default defineComponent({
   emits: ['close-box'],
-  components: { Icon },
+  components: { Icon, Wizard },
   setup (_, { emit }: SetupContext): SetupReturn {
     const store = useStore()
+    const { back } = useNavigation()
 
     const label = computed<string>(() => {
       if (store.feedbackType === 'ISSUE') {
@@ -89,6 +95,7 @@ export default defineComponent({
       canGoBack,
       colors,
       label,
+      back,
       brandColors: brand,
       canShowAdditionalControlAndInfo
     }
