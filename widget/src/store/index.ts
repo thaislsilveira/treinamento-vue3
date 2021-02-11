@@ -10,7 +10,7 @@ export type StoreState = {
 }
 
 const initialState: StoreState = {
-  currentComponent: 'Success',
+  currentComponent: 'SelectFeedbackType',
   message: '',
   feedbackType: '',
   fingerprint: '',
