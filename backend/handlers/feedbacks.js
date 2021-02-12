@@ -11,6 +11,7 @@ function CreateFeedbackHandler (db) {
     const {
       type,
       text,
+      apiKey,
       fingerprint,
       device,
       page
@@ -36,6 +37,10 @@ function CreateFeedbackHandler (db) {
       ctx.status = 400
       ctx.body = { error: 'page is empty' }
     }
+    if (!apiKey) {
+      ctx.status = 400
+      ctx.body = { error: 'apiKey is empty' }
+    }
 
     if (!FEEDBACK_TYPES[String(type).toUpperCase()]) {
       ctx.status = 422
@@ -43,17 +48,21 @@ function CreateFeedbackHandler (db) {
       return
     }
 
+    // @TODO: for this, I don't validate if apikey is valid.
+    // Just for study purposes.
+
     const feedback = {
       text,
       fingerprint,
       id: uuidv4(),
+      apiKey,
       type: String(type).toUpperCase(),
       device,
       page,
       createdAt: new Date().getTime()
     }
 
-    const inserted = await db.insert('feedback', feedback)
+    const inserted = await db.insert('feedbacks', feedback)
     if (inserted) {
       ctx.status = 201
       ctx.body = feedback
