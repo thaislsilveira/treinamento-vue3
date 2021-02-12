@@ -6,7 +6,7 @@ import UsersService from './users'
 import FeedbacksService from './feedbacks'
 
 const API_ENVS = {
-  production: 'https://backend-treinamento-vue3-pi.vercel.app/',
+  production: 'https://backend-treinamento-vue3-lyart.vercel.app/',
   development: '',
   local: 'http://localhost:3000'
 }
