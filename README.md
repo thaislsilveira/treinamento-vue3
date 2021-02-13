@@ -52,7 +52,7 @@
 
 ## Modulo 06: Deploy e Github actions: :octocat:
 
-## Live Respondendo dúvidas 🙋🏽‍♀️]
+## Live Respondendo dúvidas 🙋🏽‍♀️
 
 <ul>
     <li><a href="https://www.youtube.com/watch?v=2_cma-MqwTE&ab_channel=VuejsBrasil" target="_blank">Live do 02/02/2021</a></li>
