@@ -58,7 +58,7 @@
     <li><a href="https://www.youtube.com/watch?v=2_cma-MqwTE&ab_channel=VuejsBrasil" target="_blank">Live do 02/02/2021</a></li>
 </ul>
 
-## Modulo 7: Criando nosso widget
+## Modulo 7: Criando nosso widget ⏰
 
 <ul>
     <li><a href="https://github.com/thaislsilveira/treinamento-vue3/tree/main/widget" target="_blank">Widget</a></li>
