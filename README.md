@@ -58,8 +58,18 @@
     <li><a href="https://www.youtube.com/watch?v=2_cma-MqwTE&ab_channel=VuejsBrasil" target="_blank">Live do 02/02/2021</a></li>
 </ul>
 
-## Modulo 7: Criando nosso widget ⏰
+## Modulo 07: Criando nosso widget ⏰
 
 <ul>
     <li><a href="https://github.com/thaislsilveira/treinamento-vue3/tree/main/widget" target="_blank">Widget</a></li>
+</ul>
+
+## Modulo 08: Testes pro widget: ✍️
+
+<ul>
+    <li>
+        <a href="https://github.com/thaislsilveira/treinamento-vue3/blob/main/widget/src/views/Playground/Playground.spec.js" target="_blank">
+        Teste de unidade em Playground
+        </a>
+    </li>
 </ul>
