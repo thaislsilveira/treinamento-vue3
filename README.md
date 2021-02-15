@@ -64,7 +64,7 @@
     <li><a href="https://github.com/thaislsilveira/treinamento-vue3/tree/main/widget" target="_blank">Widget</a></li>
 </ul>
 
-## Modulo 08: Testes pro widget: ✍️
+## Modulo 08: Testes pro widget:⏰ ✍️
 
 <ul>
     <li>
