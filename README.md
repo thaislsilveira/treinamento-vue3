@@ -72,4 +72,9 @@
         Teste de unidade em Playground
         </a>
     </li>
+     <li>
+        <a href="https://github.com/thaislsilveira/treinamento-vue3/tree/main/widget/tests" target="_blank">
+             Fazendo testes end2end com cypress
+         </a>
+    </li>
 </ul>
