@@ -79,4 +79,4 @@
     </li>
 </ul>
 
-## Modulo 08: Deploy e Github actions do widget: ⏰ :octocat:
+## Modulo 09: Deploy e Github actions do widget: ⏰ :octocat:
