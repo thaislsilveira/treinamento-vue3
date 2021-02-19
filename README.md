@@ -3,6 +3,13 @@
 **Link:** <a href="https://treinamento.vuejsbrasil.org/" target="_blank">Treinamento de Vue.js 3</a><br/>
 **Código:** <a href="https://github.com/vuejs-br/treinamento-vue3-code" target="_blank">Código no Curso </a>
 
+## Visão geral do Vue.js 2 :eyes:
+<ul>
+    <li>
+        <a href="https://www.youtube.com/watch?v=nksTeRRLAIY&ab_channel=VuejsBrasil" target="_blank">Visão geral do Vue.js 2 pro treinamento gratuito de Vue.js 3</a>
+    </li>
+</ul>
+
 ## Modulo 01: Introdução ⭐
 
 ## Modulo 02: Conceitos do Vue :blue_book:
