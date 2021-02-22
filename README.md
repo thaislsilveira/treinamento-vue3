@@ -89,3 +89,12 @@
 ## Modulo 09: Deploy e Github actions do widget: ⏰ :octocat:
 
 ## Modulo 10: Próximos passos 🐾
+
+## Certificado 🤝🏽
+<ul>
+     <li>
+         <a href="https://github.com/thaislsilveira/treinamento-vue3/blob/main/certificadoVue3.pdf" target="_blank">
+                 Meu Certificado
+          </a>
+     </li>
+</ul>
