@@ -98,3 +98,8 @@
           </a>
      </li>
 </ul>
+
+<h2 align='center'> WEB :computer: </h2>
+
+![Web](https://github.com/thaislsilveira/treinamento-vue3/blob/main/imagens/vue1.gif)
+![Web-feedbacker](https://github.com/thaislsilveira/treinamento-vue3/blob/main/imagens/vue2.gif)
